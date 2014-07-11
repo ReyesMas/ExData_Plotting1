@@ -13,9 +13,8 @@
 ##  Plot 4
 ##
 ##  Open the graphics device PNG
-##  width = 480 px and height = 480 px are the default values for the png function.
 ##
-    png(filename = "plot4.png")
+    png(filename = "plot4.png", width = 480, height = 480, units = "px")
     
 ##  Making the plots  
     

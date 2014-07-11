@@ -13,9 +13,8 @@
 ##  Plot 3: Plot of the Energy sub metering 1, 2 and 3 for every day
 ##
 ##  Open the graphics device PNG
-##  width = 480 px and height = 480 px are the default values for the png function.
 ##
-    png(filename = "plot3.png")
+    png(filename = "plot3.png", width = 480, height = 480, units = "px")
     
 ##  Making the plot  
     

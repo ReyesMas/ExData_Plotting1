@@ -13,9 +13,8 @@
 ## Plot 1: histogram of the Global Active Power variable
 ##
 ##  Open the graphics device PNG
-##  width = 480 px and height = 480 px are the default values for the png function.
 ##
-    png(filename = "plot1.png")
+    png(filename = "plot1.png", width = 480, height = 480, units = "px")
 
 ##  constructing the histogram    
 ##

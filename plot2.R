@@ -13,9 +13,8 @@
 ##  Plot 2: Plot of the Global Active Power for every day
 ##
 ##  Open the graphics device PNG
-##  width = 480 px and height = 480 px are the default values for the png function.
 ##
-    png(filename = "plot2.png")
+    png(filename = "plot2.png", width = 480, height = 480, units = "px")
     
 ##  Making the plot  
     
