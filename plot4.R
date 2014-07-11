@@ -2,7 +2,9 @@
 ##  Exploratory Data Analysis
 ##  Course Project 1
 ##
+##
 ##  This script constructs plot4 and saves it to a PNG file
+##
 ##
 ##  Reading data from the working directory
 ##  just from 2007-02-01 and 2007-02-02
